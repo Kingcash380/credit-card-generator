@@ -1,0 +1,3 @@
+[submodule "credit-card-generator"]
+	path = credit-card-generator
+	url = https://github.com/mihneamanolache/credit-card-generator
