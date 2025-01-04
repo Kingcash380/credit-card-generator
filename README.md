@@ -5,13 +5,13 @@ A Node.js package that generates valid credit card numbers, expiry dates, and CV
 ## Installation
 To install the credit-card-generator package, run the following command:
 ```bash
-npm install @mihnea.dev/credit-card-generator
+npm install @kingcash380/credit-card-generator
 ```
 
 ## Usage
 To generate a credit card number, expiry date, and CVV2 code, use the following code:
 ```js
-const { default: CreditCardGenerator } = require("@mihnea.dev/credit-card-generator");
+const { default: CreditCardGenerator } = require("@kingcash380/credit-card-generator");
 /** Initialize new Credit Card Generator */
 const carder = new CreditCardGenerator()
 /** Create a single card */
